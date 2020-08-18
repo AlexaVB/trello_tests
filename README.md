@@ -9,7 +9,7 @@ You also need Firefox installed https://www.mozilla.org/en-GB/firefox/new/
 
 Clone the repository:
 
-    git clone: 
+    git clone: git@github.com:AlexaVB/trello_tests.git 
 
 ## Installation
 
